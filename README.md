@@ -1,18 +1,6 @@
-# Project Name
+# Dotfiles
 
-Project Description.
-
-# Beta Version
-
-No beta version deployed.
-
-# Live version
-
-This project is yet to be deployed.
-
-## Feedback and Bugs
-
-If you have any feedback or bug report, please feel free to raise an issue :)
+Dotfiles for my windows config and terminal prompt
 
 ## Contributing
 
@@ -22,7 +10,7 @@ If you would like to contribute to this amazing project, you can create a Pull R
 
 Before interacting with our community, please read our [Code of Conduct](CODE_OF_CONDUCT.md).
 
-## Getting Started
+## Installation and Setup
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
@@ -52,14 +40,6 @@ _Below is an example of how you can instruct your audience on installing and set
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 
 ## Licensing
 
